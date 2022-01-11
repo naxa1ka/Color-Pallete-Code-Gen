@@ -11,7 +11,7 @@
 Задача была реализована с помощью кодогенерации enum и SO, а также для удобства был написан кастомный редактор
 
 # Демонстрация проекта
-| <img src="Demo/1.jpg" alt="settings" width="175" height="316" />  | <img src="Demo/2.jpg" alt="start" width="175" height="316" />  | <img src="Demo/3.jpg" alt="defeated" width="175" height="316" />  |
+| <img src="Demo/1.jpg" />  | <img src="Demo/2.jpg"/>  | <img src="Demo/3.jpg" />  |
 | :------------ |:---------------:| -----:|
-| <img src="Demo/4.JPG" alt="map" width="175" height="316" />      | <img src="Demo/5.JPG" alt="store" width="175" height="316" /> | <img src="Demo/6.JPG" alt="tips" width="175" height="316" /> |
+| <img src="Demo/4.jpg" />      | <img src="Demo/5.JPG" /> | <img src="Demo/6.JPG" /> |
 
